@@ -2,6 +2,8 @@
 // 10-27-22
 // This API will select a random phrase and display it when the user inputs the URL, similarly to when one shakes a magic eight ball. More info on the README.
 
+// Peer Review: Jacob Dekok - The code is very organized and labeled with comments to help make it easier to follow. I like how he formated his switch statement. The program runs great with no errors.
+
 using Microsoft.AspNetCore.Mvc;
 
 namespace JohnsonRMagicEightBallEndpoint.Controllers;
